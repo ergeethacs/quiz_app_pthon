@@ -1,1 +1,1 @@
-# quiz_app_pthon
+# quiz_app_python
